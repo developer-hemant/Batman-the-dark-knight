@@ -1,0 +1,144 @@
+/*
+External CSS file
+*/
+
+body{
+		max-width:1000px;
+		margin:auto;
+		font-family: Roboto;
+		font-size:16px;
+}
+
+h4{
+	font: italic small-caps bolder 28px arial, sans-serif;
+}
+
+div{
+	margin-top: 5px;
+	padding: 20px;
+}
+#image{
+    float: left;
+}
+
+.left{
+	float: left;
+}
+
+.right{
+	float:right;
+}
+
+
+#division{
+    overflow: auto;
+}
+#out_div{
+   overflow: auto;
+    
+}
+
+#background-image{
+    background-image: url("img/bat_cover.jpg");
+    height: 350px;
+    padding-top: 50px;
+    color: #fff;
+    margin-top: 25px; 
+}
+#content{
+    background-color: rgba(0,0,0,0.7);
+    max-width: 450px;
+    padding: 30px 20px;
+    margin: 50px;
+    
+}
+.thumbnail {
+    display: inline-block;
+
+    height: auto;
+
+    padding: 4px;
+
+    margin-bottom: 20px;
+
+    background-color: #fff;
+
+    border: 1px solid #a4a4a4;
+
+    text-align: center;
+
+    color: #666;
+
+    margin: 50px;
+
+}
+.pics{
+    overflow: auto;
+}
+#movies{
+    text-align: center;
+
+}
+#villian{
+    border:1px solid #a4a4a4;
+    background-color: #f1fff9;
+}
+.header{
+     overflow: auto;
+     border-bottom: solid;
+    
+}
+nav{
+    list-style-type:none;
+    margin: 0px;
+    padding: 0px;
+}
+ul{
+    list-style-type:none; 
+}
+
+li a{
+    display: block;
+    color: #666;
+    padding:14px 16px;
+    text-decoration: none;
+    float:right;
+    
+}
+td {
+    border:1px solid #a4a4a4;
+    border-collapse: collapse;
+}
+tr th{
+  border:1px solid #a4a4a4;  
+  border-collapse: collapse;  
+}
+.logo{
+    float:left;
+    height: 50px;
+}
+input {
+
+    padding: 14px 70px;
+
+    font-size: 15px;
+
+    margin-bottom: 30px;
+
+}
+
+#subscribe {
+
+    border: none;
+
+    background-color: #26211f;
+
+    color: white;
+
+    font-size: 16px;
+
+    margin: 4px -4px;
+
+    padding: 16px 40px;
+
+}
